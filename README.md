@@ -21,4 +21,6 @@ Now, to apply this migrations run the following command
 One last step and then our todo App will be live. We need to create an admin user to run this App. On the terminal, type the following command and provide username, password and email for the admin user
 '''bash
 >$ python manage.py createsuperuser
-'''
+
+ Now let's make the App live. We just need to start the server now and then we can start using our simple todo App. Start the server by following command
+ >$ python manage.py runserver
