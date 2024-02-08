@@ -10,7 +10,7 @@ You will need to install Django on your computer to run the command
 $ pip install django
 Once you have downloaded Django, run
 
-$ cd django-todo/ command 
+$ cd django-todo command 
 
 $ python manage.py makemigrations
 
