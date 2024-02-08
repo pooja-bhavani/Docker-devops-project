@@ -6,14 +6,13 @@ $ https://github.com/pooja-bhavani/devops-project.git
 '''
 run >$ cd django-todo/
 
-Once you have downloaded Django, go to the cloned repo directory and run the following command
->$ python manage.py makemigrations
-
-
 Go to the cloned repo directory and run the following command
 '''bash
 You will need to install Django on your computer to run the command
 >$ pip install django
+
+Once you have downloaded Django, go to the cloned repo directory and run the following command
+>$ python manage.py makemigrations
 
 
 This will create all the migrations files (database migrations) required to run this App.
