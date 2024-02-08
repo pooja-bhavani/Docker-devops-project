@@ -4,7 +4,7 @@ to get this repository, run the following command inside your git-enabled termin
 '''bash
 $ https://github.com/pooja-bhavani/devops-project.git
 '''
-run >>$ cd django-todo/
+run >$ cd django-todo/
 
 Go to the cloned repo directory and run the following command
 '''bash
