@@ -3,7 +3,6 @@ A simple todo app built with Django
 to get this repository, run the following command inside your git-enabled terminal
 '''bash
 $ https://github.com/pooja-bhavani/devops-project.git
-<img width="678" alt="Screenshot 2024-02-11 at 2 40 35 PM" src="https://github.com/pooja-bhavani/devops-project/assets/147735975/f9b37d94-961b-4965-8b4c-99ef348d0947">
 
 '''
 run >$ cd django-todo/
