@@ -30,4 +30,4 @@ One last step and then our todo App will be live. We need to create an admin use
  
  Now let's make the App live. We need to start the server now and then we can start using our simple todo App. Start the server by following the command
  >$ python manage.py runserver
-Once the server is hosted, head over to http://3.108.190.70:8000/todos/ for the App.
+Once the server is hosted, head over to http://65.2.34.157:8000/todos/ for the App.
