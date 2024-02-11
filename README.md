@@ -13,6 +13,9 @@ $ https://github.com/pooja-bhavani/devops-project.git
 # create env
 >$ virtualenv -p python3 env
 
+# Activate env
+>$ source env/bin/activate
+
 
 
 run >$ cd django-todo/
