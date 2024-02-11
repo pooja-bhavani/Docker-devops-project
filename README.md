@@ -5,6 +5,16 @@ to get this repository, run the following command inside your git-enabled termin
 $ https://github.com/pooja-bhavani/devops-project.git
 
 '''
+
+# install virtualenv
+>$ pip install virtualenv
+
+
+# create env
+>$ virtualenv -p python3 env
+
+
+
 run >$ cd django-todo/
 
 Go to the cloned repo directory and run the following command
