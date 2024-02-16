@@ -1,0 +1,22 @@
+To create a file in Linux:
+>$ubuntu@ip-172-31-44-248:~$ touch file1
+
+To create multiple files in Linux:
+>$ubuntu@ip-172-31-44-248:~$ touch file2 file3 file4 file5
+
+To check whether files are created or not:
+$ubuntu@ip-172-31-44-248:~$ ls
+file1  file2  file3  file4  file5
+
+To create a directory in Linux:
+$ubuntu@ip-172-31-44-248:~$ mkdir dir1
+
+To Go inside the directory:
+$ubuntu@ip-172-31-44-248:~$ cd dir1
+
+To create multiple directories inside a directory:
+$ubuntu@ip-172-31-44-248:~/dir1$ mkdir a b c d
+
+TO copy files from source to destination(to directory): The file cannot be copied into another file it can be copied to a directory only. But a directory can be copied to another directory.
+$ubuntu@ip-172-31-44-248:~$ cp file1 dir2
+ubuntu@ip-172-31-44-248:~$ cp -r dir1 dir2
