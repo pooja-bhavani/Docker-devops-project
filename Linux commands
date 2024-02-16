@@ -1,8 +1,8 @@
 To create a file in Linux:
->$ubuntu@ip-172-31-44-248:~$ touch file1
+$ubuntu@ip-172-31-44-248:~$ touch file1
 
 To create multiple files in Linux:
->$ubuntu@ip-172-31-44-248:~$ touch file2 file3 file4 file5
+$ubuntu@ip-172-31-44-248:~$ touch file2 file3 file4 file5
 
 To check whether files are created or not:
 $ubuntu@ip-172-31-44-248:~$ ls
