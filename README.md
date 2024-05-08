@@ -7,10 +7,7 @@ $ https://github.com/pooja-bhavani/devops-project.git
 '''
 
 # install virtualenv
-'''' $ pip install virtualenv
-''''
-
-
+>$ pip install virtualenv
 
 # create env
 >$ virtualenv -p python3 env
