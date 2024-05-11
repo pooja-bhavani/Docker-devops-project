@@ -1,9 +1,9 @@
 # DevOps-project
 A simple todo app built with Django
 to get this repository, run the following command inside your git-enabled terminal
-'''bash
+>$ bash
 $ https://github.com/pooja-bhavani/devops-project.git
-'''
+
 
 # install virtualenv
 >$ pip install virtualenv
