@@ -1,4 +1,4 @@
-# DevOps-project
+ii# DevOps-project
 A simple todo app built with Django
 to get this repository, run the following command inside your git-enabled terminal
 
